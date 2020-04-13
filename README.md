@@ -3,9 +3,9 @@ BONTHAPALLI BHARATH REDDY
 Mobile: + 91-7013884995<br/>
 [my_linkedin_profile](https://www.linkedin.com/in/bonthapalli-bharath-reddy-ab8330136/) <br/>
 
-> **RESEARCH PUBLICATIONS**:
-  1.	Supporting Individuals with Autistic Spectrum Disorder with Various Technologies: A Review.
-  2.	Predicting Academic Performance in students by an Analytical study on Big Data Machine Learning Techniques. 
+**RESEARCH PUBLICATIONS**:
+> 1.	Supporting Individuals with Autistic Spectrum Disorder with Various Technologies: A Review.
+> 2.	Predicting Academic Performance in students by an Analytical study on Big Data Machine Learning Techniques. 
 
 **Projects**: 
 1.	Data Analysis of Google Play Store Apps Data 
